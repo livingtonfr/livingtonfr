@@ -8,7 +8,7 @@
 
 - 🎓 Estudando **Inteligência Artificial** na Universidade Federal de Goiás (UFG)
 - 📍 Goiânia, Goiás, Brasil
-- 🚀 Sempre aprendendo algo novo no mundo da IA e do desenvolvimento
+- 🚀 Sempre aprendendo algo novo no mundo da IA e do desenvolvimento de softwares 
 - 💡 Curioso por natureza, curioso por escolha!
 
 ---
