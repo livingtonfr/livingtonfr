@@ -47,7 +47,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-livingtonfr-181717?style=for-the-badge&logo=github)](https://github.com/livingtonfr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Livington%20Francisco-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Livington%20Francisco-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/livington-francisco-de-sousa-silva-b56584402/)
 [![Email](https://img.shields.io/badge/Email-livingtonf@discente.ufg.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:livingtonf@discente.ufg.br)
 
 </div>
